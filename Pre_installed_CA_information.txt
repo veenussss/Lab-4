@@ -1,0 +1,14 @@
+These are the parameters of our private encryption system.  Consider this information to have been securely installed onto your PC by your IT/network administrator.  The CA's public RSA key is used to verify the signatures on certificates that you can download from the crypto server.  To download a certificate, enter the CMU Andrew username of a classmate (or for Perkins use "mperkin2")
+
+p = 4294967291
+alpha = 1000005
+CA public RSA key = 
+-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsdbwxf+Yhnvi4OK6s8P0
+bK6tFcxGaSTc6VtLKHdZ5+d87XBJEGOawFp7gkh29QSOIrYEUDxeRYa6yPLgAwD2
+bkOmil3zG+B5ciHe7wEOM+Clm8Nm6tdeIy/jWYD4Z7j6u1J3u9zygZsLw4goqAfj
+tpwKDH2f3nDGs4EmPgAV5cixz9McqdO32CLZJ1O/LboB8nj4cMaaC/8dpkRClsBW
+K5JkRJ0Ih+qEoJ8e2BQNNUVU8+8nVML/u3de8daTutc7V/Von3KIp+dRSj9xkWBG
+o8BqiYS6Ply8WiFkoWWuFCVKTr0qJ17olRUY2l6uAU8hsijcH0wqqKBRGA0+z7Uq
+oQIDAQAB
+-----END PUBLIC KEY-----
